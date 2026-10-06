@@ -1,12 +1,12 @@
 /* All site content lives in /data. Image values: "/images/..." path, a full URL, or "placeholder:Label|hue" (generated stand-in). */
 window.DATA = window.DATA || {};
 DATA.profile = {
-  name: "YOUR NAME",
-  title: "Engineer, developer, photographer",
-  roles: ["Mechanical Engineer", "Software Engineer", "Photographer", "Cricket Player", "Traveller"],
+  name: "MITHUN S S",
+  title: "Engineer, Developer, Photographer",
+  roles: ["Mechanical Engineer", "Software Engineer", "Photographer", "Traveller"],
   greeting: "Hello, I'm",
   taglines: ["Building things.", "Writing code.", "Capturing moments.", "Exploring places."],
-  location: "YOUR LOCATION",
+  location: " TRIVANDRUM, KERALA ",
   profileImage: "placeholder:YOUR_PROFILE_IMAGE|210",
   heroImage: "placeholder:YOUR_HERO_IMAGE|215",
   introduction: "One person, multiple disciplines, continuously evolving. Replace this with your own introduction.",
