@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>YOUR NAME · Engineer, developer, photographer</title>
+<meta name="description" content="Personal portfolio of YOUR NAME: engineering, software, photography, cricket and travel.">
+<meta name="theme-color" content="#0d0d0c"><link rel="canonical" href="https://YOUR-DOMAIN/">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<meta property="og:type" content="website"><meta property="og:title" content="YOUR NAME"><meta property="og:description" content="One person, multiple disciplines, continuously evolving.">
+<meta property="og:url" content="https://YOUR-DOMAIN/"><meta property="og:image" content="https://YOUR-DOMAIN/images/og.jpg">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="YOUR NAME">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t;else if(matchMedia("(prefers-color-scheme: light)").matches)document.documentElement.dataset.theme="light"}catch(e){}</script>
+</head>
+<body>
+<a class="skip" href="#app">Skip to content</a>
+<header class="nav" id="nav"><div class="wrap nav-in">
+  <a class="brand" href="#/" id="brand"></a>
+  <nav id="menu" class="menu" aria-label="Primary"></nav>
+  <button class="icon-btn" id="theme" aria-label="Toggle light and dark mode">◐</button>
+  <button class="icon-btn burger" id="burger" aria-label="Menu" aria-expanded="false" aria-controls="menu">☰</button>
+</div></header>
+<main id="app"><div id="homeView"></div><div id="detailView" hidden></div></main>
+<footer class="wrap foot" id="foot"></footer>
+<dialog id="lb" class="lb" aria-label="Photo viewer">
+  <button class="lb-x" aria-label="Close">✕</button><button class="lb-p" aria-label="Previous photo">‹</button><button class="lb-n" aria-label="Next photo">›</button>
+  <figure><img id="lbImg" alt=""><figcaption id="lbCap"></figcaption></figure>
+</dialog>
+<noscript><p class="wrap">Please enable JavaScript to view this site.</p></noscript>
+<script src="data/profile.js"></script><script src="data/skills.js"></script><script src="data/travel.js"></script>
+<script src="data/photography.js"></script><script src="data/projects.js"></script><script src="data/timeline.js"></script>
+<script src="app.js"></script>
+</body></html>
