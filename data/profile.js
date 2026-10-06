@@ -7,7 +7,7 @@ DATA.profile = {
   greeting: "Hello, I'm",
   taglines: ["Writing code.", "Capturing moments.", "Exploring places."],
   location: " TRIVANDRUM, KERALA ",
-  profileImage: "placeholder:YOUR_PROFILE_IMAGE|210",
+  profileImage: "images/profile/Mithun.Wallpaper.jpg",
   heroImage: "images/profile/Mithun.Wallpaper.2.jpg",
   introduction: "One person, multiple disciplines, continuously evolving. Replace this with your own introduction.",
   email: "",
