@@ -10,11 +10,11 @@ DATA.profile = {
   profileImage: "images/profile/Mithun.Wallpaper.jpg",
   heroImage: "images/profile/Mithun.Wallpaper.1.jpg",
   introduction: "One person, multiple disciplines, continuously evolving. Replace this with your own introduction.",
-  email: "",
+  email: "mithunss1591998@gmail.com",
   social: [ // entries with an empty href are hidden
-    { label: "GitHub", href: "" }, { label: "LinkedIn", href: "" }, { label: "Instagram", href: "" }
+    { label: "Whatsapp", href: "907224483" }, { label: "LinkedIn", href: "https://www.linkedin.com/in/mithun-s-s-b2b7b0205?utm_source=share_via&utm_content=profile&utm_medium=member_android" }, { label: "Instagram", href: "https://www.instagram.com/verse.of.a.cynic?stkn=MWp2a2Jnank3aWFydQ==" }
   ],
-  seo: { description: "Personal portfolio of YOUR NAME: engineering, software, photography, cricket and travel.", siteUrl: "" },
+  seo: { description: "Personal portfolio of MITHUN: engineering, software, photography, cricket and travel.", siteUrl: "" },
   cta: [{ label: "Explore my journey", target: "journey", primary: true }, { label: "View my work", target: "projects" }],
   whoami: [
     { title: "Engineer", text: "I like understanding how things work.", icon: "⚙", image: "" },
