@@ -8,7 +8,7 @@ DATA.profile = {
   taglines: ["Writing code.", "Capturing moments.", "Exploring places."],
   location: " TRIVANDRUM, KERALA ",
   profileImage: "images/profile/Mithun.Wallpaper.jpg",
-  heroImage: "images/profile/Mithun.Wallpaper.2.jpg",
+  heroImage: "images/profile/Mithun.Wallpaper.1.jpg",
   introduction: "One person, multiple disciplines, continuously evolving. Replace this with your own introduction.",
   email: "",
   social: [ // entries with an empty href are hidden
