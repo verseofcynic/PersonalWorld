@@ -5,7 +5,7 @@ DATA.profile = {
   title: "Engineer, Developer, Photographer",
   roles: ["Mechanical Engineer", "Software Engineer", "Photographer", "Traveller"],
   greeting: "Hello, I'm",
-  taglines: ["Building things.", "Writing code.", "Capturing moments.", "Exploring places."],
+  taglines: ["Writing code.", "Capturing moments.", "Exploring places."],
   location: " TRIVANDRUM, KERALA ",
   profileImage: "placeholder:YOUR_PROFILE_IMAGE|210",
   heroImage: "images/profile/Mithun.Wallpaper.jpg",
