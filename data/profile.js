@@ -9,7 +9,7 @@ DATA.profile = {
   location: " TRIVANDRUM, KERALA ",
   profileImage: "images/profile/Mithun.Wallpaper.jpg",
   heroImage: "images/profile/Mithun.Wallpaper.1.jpg",
-  introduction: "One person, multiple disciplines, continuously evolving.",
+  introduction: "Jack of All Trades",
   email: "mithunss1591998@gmail.com",
   social: [ // entries with an empty href are hidden
     { label: "Whatsapp", href: "907224483" }, { label: "LinkedIn", href: "https://www.linkedin.com/in/mithun-s-s-b2b7b0205?utm_source=share_via&utm_content=profile&utm_medium=member_android" }, { label: "Instagram", href: "https://www.instagram.com/verse.of.a.cynic?stkn=MWp2a2Jnank3aWFydQ==" }
@@ -30,7 +30,7 @@ DATA.profile = {
   // Order, titles and presence of sections. Add, remove or reorder freely. type "cards" is a generic custom section.
   sections: [
     { type: "hero", id: "home", nav: "Home" },
-    { type: "who", id: "about", nav: "About", kicker: "Who am I", title: "Jack of All Trades,Master of None" },
+    { type: "who", id: "about", nav: "About", kicker: "Who am I", title: "One person, multiple disciplines, continuously evolving." },
     { type: "skills", id: "skills", nav: "Skills", kicker: "What I know", title: "My worlds" },
     { type: "stats", id: "stats", items: [{ label: "Skills", count: "skills" }, { label: "Destinations", count: "travel" }, { label: "Photographs", count: "photos" }, { label: "Projects", count: "projects" }] },
     { type: "journey", id: "journey", nav: "Journey", kicker: "Where I've come from", title: "The journey so far" },
