@@ -17,11 +17,12 @@ DATA.profile = {
   seo: { description: "Personal portfolio of MITHUN: engineering, software, photography, cricket and travel.", siteUrl: "" },
   cta: [{ label: "Explore my journey", target: "journey", primary: true }, { label: "View my work", target: "projects" }],
   whoami: [
-    { title: "Engineer", text: "I like understanding how things work.", icon: "⚙", image: "" },
-    { title: "Developer", text: "I build software and systems.", icon: "</>", image: "" },
-    { title: "Photographer", text: "I capture moments and places.", icon: "◉", image: "placeholder:YOUR_PHOTOGRAPH|160" },
-    { title: "Cricketer", text: "I enjoy competition and teamwork.", icon: "●", image: "" },
-    { title: "Traveller", text: "I explore new places and experiences.", icon: "✦", image: "" }
+    { title: "Mechanical Engineer", text: "I like understanding how things work.", icon: "⚙", image: "images/profile/Mithun.Mechanical.jpg" },
+    { title: "Software Developer", text: "I build software and systems.", icon: "</>", image: "images/profile/Mithun.Developer.jpg" },
+    { title: "Photographer", text: "I capture moments and places.", icon: "◉", image: "images/profile/Mithun.Photographer.jpg" },
+    { title: "Traveller", text: "I explore new places and experiences.", icon: "✦", image: "images/profile/Mithun.Traveller.jpg" },
+    { title: "Cricketer", text: "I enjoy competition and teamwork.", icon: "●", image: "images/profile/Mithun.Cricketer.jpg" },
+    
   ],
   currently: [
     { label: "Building", value: "Software systems" }, { label: "Learning", value: "New technologies" },
