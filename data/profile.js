@@ -30,7 +30,7 @@ DATA.profile = {
   // Order, titles and presence of sections. Add, remove or reorder freely. type "cards" is a generic custom section.
   sections: [
     { type: "hero", id: "home", nav: "Home" },
-    { type: "who", id: "about", nav: "About", kicker: "Who am I", title: "Several people, one person." },
+    { type: "who", id: "about", nav: "About", kicker: "Who am I", title: "Jack of All Trades,Master of None, though oftentimes better than master of one" },
     { type: "skills", id: "skills", nav: "Skills", kicker: "What I know", title: "My worlds" },
     { type: "stats", id: "stats", items: [{ label: "Skills", count: "skills" }, { label: "Destinations", count: "travel" }, { label: "Photographs", count: "photos" }, { label: "Projects", count: "projects" }] },
     { type: "journey", id: "journey", nav: "Journey", kicker: "Where I've come from", title: "The journey so far" },
