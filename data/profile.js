@@ -9,7 +9,7 @@ DATA.profile = {
   location: " TRIVANDRUM, KERALA ",
   profileImage: "images/profile/Mithun.Wallpaper.jpg",
   heroImage: "images/profile/Mithun.Wallpaper.1.jpg",
-  introduction: "One person, multiple disciplines, continuously evolving. Replace this with your own introduction.",
+  introduction: "One person, multiple disciplines, continuously evolving.",
   email: "mithunss1591998@gmail.com",
   social: [ // entries with an empty href are hidden
     { label: "Whatsapp", href: "907224483" }, { label: "LinkedIn", href: "https://www.linkedin.com/in/mithun-s-s-b2b7b0205?utm_source=share_via&utm_content=profile&utm_medium=member_android" }, { label: "Instagram", href: "https://www.instagram.com/verse.of.a.cynic?stkn=MWp2a2Jnank3aWFydQ==" }
